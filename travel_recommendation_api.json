@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Bali Beaches",
+    "type": "beach",
+    "description": "Experience the stunning white sand beaches of Bali with crystal clear waters perfect for swimming and surfing.",
+    "location": "Bali, Indonesia",
+    "imageUrl": "https://images.unsplash.com/photo-1537996194471-e657df975ab4",
+    "timezone": "Asia/Makassar"
+  },
+  {
+    "id": 2,
+    "name": "Maldives Paradise",
+    "type": "beach",
+    "description": "Discover the ultimate luxury beach experience with overwater bungalows and pristine blue lagoons.",
+    "location": "Maldives",
+    "imageUrl": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8",
+    "timezone": "Indian/Maldives"
+  },
+  {
+    "id": 3,
+    "name": "Golden Temple",
+    "type": "temple",
+    "description": "Visit the holiest shrine of Sikhism, a stunning gold-plated temple surrounded by a sacred pool.",
+    "location": "Amritsar, India",
+    "imageUrl": "https://images.unsplash.com/photo-1564507592333-c60657eea523",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": 4,
+    "name": "Angkor Wat",
+    "type": "temple",
+    "description": "Explore the world's largest religious monument, an ancient temple complex with stunning architecture.",
+    "location": "Siem Reap, Cambodia",
+    "imageUrl": "https://images.unsplash.com/photo-1563492065599-3520f775eeed",
+    "timezone": "Asia/Phnom_Penh"
+  },
+  {
+    "id": 5,
+    "name": "Japan",
+    "type": "country",
+    "description": "Experience the perfect blend of ancient traditions and cutting-edge technology in this fascinating island nation.",
+    "location": "East Asia",
+    "imageUrl": "https://images.unsplash.com/photo-1528164344705-47542687000d",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": 6,
+    "name": "Italy",
+    "type": "country",
+    "description": "Discover the birthplace of the Renaissance, home to world-class cuisine, art, and historic architecture.",
+    "location": "Southern Europe",
+    "imageUrl": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 7,
+    "name": "Copacabana Beach",
+    "type": "beach",
+    "description": "One of the most famous beaches in the world, offering a vibrant atmosphere and stunning views of Rio de Janeiro.",
+    "location": "Rio de Janeiro, Brazil",
+    "imageUrl": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325",
+    "timezone": "America/Sao_Paulo"
+  },
+  {
+    "id": 8,
+    "name": "Temple of Heaven",
+    "type": "temple",
+    "description": "A magnificent complex of religious buildings where emperors of the Ming and Qing dynasties performed ceremonies.",
+    "location": "Beijing, China",
+    "imageUrl": "https://images.unsplash.com/photo-1508804052814-cd3ba865a116",
+    "timezone": "Asia/Shanghai"
+  },
+  {
+    "id": 9,
+    "name": "New Zealand",
+    "type": "country",
+    "description": "A land of breathtaking landscapes, from mountains and fjords to beaches and thermal springs.",
+    "location": "Oceania",
+    "imageUrl": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800",
+    "timezone": "Pacific/Auckland"
+  }
+]
